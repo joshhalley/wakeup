@@ -1,3 +1,5 @@
+### Script extended upon an initial prototype authored by Jónatan Þór Jónasson
+
 if {$argc != 3} {
        puts "Please ensure that all variables are included"
        puts "Syntax:"
