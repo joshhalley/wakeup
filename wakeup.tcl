@@ -1,4 +1,5 @@
-### Script extended upon an initial prototype authored by Jónatan Þór Jónasson
+### The below script extended upon an initial prototype for Cisco Routers and Switches, which was authored by Jónatan Þór Jónasson. 
+### Jónatan's initial input that led to his script was derived from Shedi, from the tcl-lang user community.  
 
 if {$argc != 3} {
        puts "Please ensure that all variables are included"
